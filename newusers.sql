@@ -1,2 +1,4 @@
 CREATE role admin LOGIN SUPERUSER;
 CREATE role apps LOGIN; 
+-- ALTER ROLE admin ENCRYPTED PASSWORD 'password'
+-- ALTER ROLE apps ENCRYPTED PASSWORD 'password'
