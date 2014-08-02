@@ -1,0 +1,2 @@
+CREATE role admin LOGIN SUPERUSER;
+CREATE role apps LOGIN; 
